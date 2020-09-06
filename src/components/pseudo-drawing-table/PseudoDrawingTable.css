@@ -1,0 +1,15 @@
+.drawing-table {
+    height: 600px;
+    width: 800px;
+
+    border-color: rgb(39, 0, 75);
+    border-style: solid;
+
+    position: relative;
+}
+
+.drawing-table .mouse-position-display {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+}

@@ -1,0 +1,8 @@
+.mouse-position-display {
+    width: 80px;
+    text-align: left;
+
+    padding-left: 2px;
+
+    border: solid 1px black;
+}  
